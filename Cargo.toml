@@ -1,2 +1,2 @@
 [workspace]
-members = ["sampling"]
+members = ["sampling", "memory_usage"]
